@@ -1,4 +1,4 @@
-# Project Title
+# Take Home Exercise
 
 - Author: [Richard McQuiston](mailto:richard.mcquiston@gmail.com)
 - Website: https://richardmcquiston.com/
