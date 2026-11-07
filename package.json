@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/RichardMcQuiston01/khan-academy-extension#readme",
   "devDependencies": {
+    "@types/chrome": "^0.3.7",
     "typescript": "^7.0.2"
   }
 }
