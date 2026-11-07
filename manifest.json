@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "My Khan Academy Extension",
+  "author": "Richard McQuiston",
+  "email": "richard@mcqsoft.com",
+  "version": "1.0",
+  "description": "A simple Chrome extension built with TypeScript",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "dist/popup.html"
+  },
+  "background": {
+    "service_worker": "dist/background.js"
+  }
+}

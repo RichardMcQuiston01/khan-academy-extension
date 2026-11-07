@@ -1,0 +1,25 @@
+{
+  "name": "khan-academy-extension",
+  "version": "1.0.0",
+  "description": "- Author: [Richard McQuiston](mailto:richard@mcqsoft.com)\r - Website: https://richardmcquiston.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardMcQuiston01/khan-academy-extension.git"
+  },
+  "keywords": [],
+  "author": "Richard McQuiston <richard@mcqsoft.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RichardMcQuiston01/khan-academy-extension/issues"
+  },
+  "homepage": "https://github.com/RichardMcQuiston01/khan-academy-extension#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
